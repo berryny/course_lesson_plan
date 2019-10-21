@@ -1,0 +1,36 @@
+body {
+  color: white;
+}
+div {
+  background-color: black;
+  width: 336px;
+  margin: 0 auto;
+}
+p {
+  font-size: 20px;
+  text-align: left;
+  padding: 10px;
+}
+header {
+  background-color: green;
+}
+header h1 {
+  color: black;
+}
+main {
+  padding: 10px 20px;
+}
+.time {
+  text-align: center;
+}
+.me {
+  background-color: grey;
+  text-align: right;
+  margin: auto 0 auto auto
+}
+.person {
+  background-color: green;
+}
+.me, .person {
+  width: 50%;
+}

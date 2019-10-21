@@ -1,1 +1,1 @@
-# course_lesson_plan
+# Course Lesson Plan
